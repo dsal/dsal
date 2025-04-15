@@ -1,4 +1,7 @@
-Hello wonderful person, I’m Ahmad Salehi. I am an engineer with deep interest in computer vision and remote sensing.
+I’m Ahmad Salehi, an engineer with deep interest in computer vision and remote sensing.
+
+Ich bin Ahmad Salehi, ein Software-Entwickler C/C++ und Python im Bereich der Computer Vision und Fernerkundung.
+
 - M.Sc. Space Sciences and Technologies - Physics for Space Observation (University of Bremen)
 - B.Sc. Electrical Engineering - Electronics (Azad University of Tehran)
   
