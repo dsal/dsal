@@ -4,7 +4,7 @@
 - M.Sc. Space Sciences and Technologies - Physics for Space Observation (University of Bremen)
 - B.Sc. Electrical Engineering - Electronics (Azad University of Tehran)
 
-![Untitled-2صصصص](https://github.com/user-attachments/assets/f7226057-e72a-4b55-93d3-b3c24bcadb0a)
+<img src="https://github.com/user-attachments/assets/f7226057-e72a-4b55-93d3-b3c24bcadb0a" alt="Untitled-2" style="width:70%;">
 
 <!---
 dsal/dsal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
